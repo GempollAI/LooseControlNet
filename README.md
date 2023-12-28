@@ -20,6 +20,8 @@ Download the fused ControlNet weights from [huggingface](https://huggingface.co/
 anywhere (e.g. A1111's WebUI or ComfyUI) you can use `ControlNet-depth` to loosely control image generation using depth
 images.
 
+[Example folder](./loose_controlnet_example) contains an simple workflow for using LooseControlNet in ComfyUI.
+
 ## Contributing
 
 If you like it, you can contribute by:
